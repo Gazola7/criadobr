@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+*{
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+img{
+  width: 30px;
+}
+input[type="checkbox"]{
+  display: none;
+}
+nav {
+  background-color: #135159;
+  width: 350px;
+  height: 100%;
+  left: -350;
+  position: absolute;
+}
+ul{
+  top: 50px;
+  position: absolute;
+  width: 100%;
+}
+a{
+  display: block; 
+  padding: 20px 5px;
+  color: white; 
+}
+a:hover{
+  background: #5fa3ac;
+  color: black; 
+}
+label{
+  background: red;
+  padding: 15px; 
+  position: absolute;
+}
