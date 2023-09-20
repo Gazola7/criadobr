@@ -40,3 +40,7 @@ label{
   padding: 15px; 
   position: absolute;
 }
+.show-nav {
+  left: 0; 
+}
+
